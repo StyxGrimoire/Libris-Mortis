@@ -1,3 +1,3 @@
 # Libris-Mortis
 
-Currently under construction.
+Available on itch.io here: https://styxgrimoire.itch.io/libris-mortis
